@@ -1,2 +1,2 @@
-message <- "You're so sweet and smart, Cheryl!"
+message <- "You're an amazing person Jacinda! <3"
 print(message())
